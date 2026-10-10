@@ -12,9 +12,9 @@
 
 *`pkg install nodejs-lts`
 
-*`git clone https://github.com/princekrvert/multigm.git`
+*`git clone https://github.com/AnnFer123/mailextrapoladorr`
 
-*`cd multigm`
+*`cd mailextrapoladorr`
 
 
 *`npm install `
